@@ -11,13 +11,13 @@ $list = '[
     },
     {
         "immagine": "img",
-        "titolo": "tt",
+        "titolo": "aba",
         "cantante": "cc",
         "anno": 1234
     },
     {
         "immagine": "img",
-        "titolo": "tt",
+        "titolo": "nun",
         "cantante": "cc",
         "anno": 1234
     }
