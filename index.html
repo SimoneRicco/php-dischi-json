@@ -9,7 +9,17 @@
 <body>
     <div id="app">
         <div v-for="(item, index) in myArr" :key="index">
-            {{item.titolo}}
+            
+        </div>
+        <div class="container d-flex flex-wrap">
+            <div class="card text-center" style="width: 18rem;" v-for="(item, index) in myArr" :key="index">
+                <!-- <img src="..." class="card-img-top" alt="..."> -->
+                <div class="card-body">
+                  <h5 class="card-title">{{item.titolo}}</h5>
+                  <p class="card-text">{{item.cantante}}</p>
+                  <p class="card-text">{{item.anno}}</p>
+                </div>
+            </div>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>

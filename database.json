@@ -1,20 +1,40 @@
 [
     {
         "immagine": "img",
-        "titolo": "tt",
-        "cantante": "cc",
-        "anno": 1234
+        "titolo": "New Jersey",
+        "cantante": "Bon Jovi",
+        "anno": 1988
     },
     {
         "immagine": "img",
-        "titolo": "tt",
-        "cantante": "cc",
-        "anno": 1234
+        "titolo": "Live at Wembler 86",
+        "cantante": "Queen",
+        "anno": 1992
     },
     {
         "immagine": "img",
-        "titolo": "tt",
-        "cantante": "cc",
-        "anno": 1234
+        "titolo": "Ten's Summoners",
+        "cantante": "Sting",
+        "anno": 1993
+    },
+    {
+        "immagine": "img",
+        "titolo": "Steve Gadd band",
+        "cantante": "Steve Gadd Band",
+        "anno": 2018
+    }
+    ,
+    {
+        "immagine": "img",
+        "titolo": "Brave new World",
+        "cantante": "Iron Maiden",
+        "anno": 2000
+    }
+    ,
+    {
+        "immagine": "img",
+        "titolo": "One more car, one more rider",
+        "cantante": "Eric Clapton",
+        "anno": 2002
     }
 ]
